@@ -1,5 +1,11 @@
 # 5001-Final-Project
 
+CS5001-Final-Project
+Expenses Tracking Application
+
+name: Ruijin Zhang
+semester: 2023 Spring
+
   From this project, what i have learned is how to organize our code efficiently, i can divide our code into so many function or methods in order to fix it really quickly when i find some bugs, instead of a single giant main function. when i was writing code, the first thing was to write the doc string comment for every functions. one is to make others readable, on the other hand is make me know exactly what i want the function to do and return. and also, i gradually name the function or methods descriptive. just make it understandable.
   
   As i said, i really like the way i did on how dividing our entire code into pieces of smaller one. whenever i got some kind of errors, i just need to find out the specific function and fix it, which would not affect the other code function.
